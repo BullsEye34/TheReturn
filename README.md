@@ -14,6 +14,16 @@ This is a text adventure game create using <br>
 
 ## How to Use
 
+<b>Download the latest build from [Here](https://github.com/BullsEye34/TheReturn/releases/).</b>
+<ul>
+<li>Download the latest build
+</li>
+<li>Extract the File.
+</li>
+<li>Open <b>*The Return.exe*</B></li>
+<li>Enjoy</li>
+</ul>
+
 
 ### Disclaimer
 > This project was a step by step demo of my game development course when I am studying in [XAMK South Finland University](https://www.xamk.fi/en/frontpage).
